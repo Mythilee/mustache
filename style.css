@@ -1,0 +1,21 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+.btn-success:hover
+{
+    background-color: lightcoral;
+}
+
+canvas
+{
+    border: 7px solid black;
+}
+
+body {
+    background-image: url('Untitled\ design.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
